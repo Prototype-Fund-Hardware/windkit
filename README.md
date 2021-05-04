@@ -13,7 +13,7 @@ ___
 
 ### Technical specifications:
 
-- **rotor diameter 2.2 Meter**
+- **rotor diameter 2.0 Meter**
 - **rated power 400 Watt**
 - **an. power production 500 kWh/a @ 4 m/s**
 - **system voltage 12, 24, 48 Volt**
