@@ -2,7 +2,7 @@
 <div align="center">
   <img  src="./images/WindkitLogo.svg" />
 
-  #### ⚠️ Caution: The windkit is still in development. Prototype not field tested yet!⚠️
+  #### ⚠️ Caution: The windkit is still in development. Prototype not field tested yet! Project is not recommendet for reproduction yet!!!⚠️
 
 </div>
 
