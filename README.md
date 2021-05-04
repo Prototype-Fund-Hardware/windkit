@@ -24,7 +24,7 @@ ___
 
 ___
 
-## software requirements
+## Software requirements
 FreeCAD Version: FreeCAD_assembly3 [2020.08.18](https://github.com/realthunder/FreeCAD_assembly3/releases/tag/0.11)**, **Sprache: Englisch**, **Assembly Workbench: Assembly3** \*\*Genutzte Addons: Fasteners WB [V0.3.32 03 Sep 2020](https://github.com/shaise/FreeCAD_FastenersWB/tree/bbdcf82e55467523f5533179a896225213b0b5f1) \*\*
 
 ## AssemblyOverview
