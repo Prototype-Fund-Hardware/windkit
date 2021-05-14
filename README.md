@@ -4,6 +4,8 @@
 
   #### ⚠️ Caution: The windkit is still in development.Prototype not field tested yet!⚠️
   #### ⚠️ Project is not recommended for reproduction!⚠️
+  <img src="https://img.shields.io/badge/license-OHL-0">
+  <img src="https://img.shields.io/badge/status-prototype-critical">
 
 </div>
 
@@ -25,21 +27,17 @@ ___
 
 For more information check out the [Flyer](./Misc/FlyerWindkit.pdf)!
 
-___
-
 ## Software requirements
 windkit is build with realthunder's FreeCAD fork : FreeCAD_assembly3 [2020.08.18](https://github.com/realthunder/FreeCAD_assembly3/releases/tag/0.11). To modify the model we recommend the same or even newer versions. For the assembly process we've been using the assembly workbench Assembly3. The workbench is bundled in the fork mentioned before, no addition installation are needed. In addition we use the Fasteners WB [V0.3.32 03 Sep 2020](https://github.com/shaise/FreeCAD_FastenersWB/tree/bbdcf82e55467523f5533179a896225213b0b5f1) for fasteners groups, this workbench needs to be installed separatly via the Addon-Manager in Freecad. 
 
 ## Assembly overview
-The master assembly file is called `MainAssembly.windkit.FCStd`. All sub-assemblies are saved in different folders. The sub-assemblies are shown in the following image below. 
+The master assembly file is called `MainAssembly.windkit.FCStd`. All sub-assemblies are saved in different folders. The sub-assemblies are shown in the following image below. The [BOM](./Bom.ods) is also structured the way the Cad is organised.
 ![](./Images/AssemblyOverview.png)
 
-The Bill Of Materials is also structured the way the Cad is organised.
 
 ## Prototype
 
 Beginning of 2021 a prototype has been built in a workshop.
-
 The following picture shows all parts of the windkit prototype before assembly. 
 
   <img  src="./Images/Parts.jpg" width="48%">
