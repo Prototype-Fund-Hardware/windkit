@@ -1,15 +1,20 @@
-
 <div align="center">
-  <img  src="./images/WindkitLogo.svg" />
+  <img  src="./Images/WindkitLogo.svg" />
 
-  #### ⚠️ Caution: The windkit is still in development. Prototype not field tested yet! Project is not recommendet for reproduction yet!!!⚠️
+
+  #### ⚠️ Caution: The windkit is still in development.Prototype not field tested yet!⚠️
+  #### ⚠️ Project is not recommended for reproduction!⚠️
 
 </div>
 
 ___
-  <img align="right" src="./images/WindkitExploded.png" width="30%">
+  <img align="right" src="./Images/WindkitExploded.png" width="30%">
 
 ### Main features:
+
+- **secure**
+- **easy to build, repair & maintain**
+- **open-source**
 
 ### Technical specifications:
 
@@ -18,14 +23,34 @@ ___
 - **an. power production 500 kWh/a @ 4 m/s**
 - **system voltage 12, 24, 48 Volt**
 
+For more information check out the [Flyer](./Misc/FlyerWindkit.pdf)!
+
 ___
 
 ## Software requirements
-FreeCAD Version: FreeCAD_assembly3 [2020.08.18](https://github.com/realthunder/FreeCAD_assembly3/releases/tag/0.11)**, **Sprache: Englisch**, **Assembly Workbench: Assembly3** \*\*Genutzte Addons: Fasteners WB [V0.3.32 03 Sep 2020](https://github.com/shaise/FreeCAD_FastenersWB/tree/bbdcf82e55467523f5533179a896225213b0b5f1) \*\*
+windkit is build with realthunder's FreeCAD fork : FreeCAD_assembly3 [2020.08.18](https://github.com/realthunder/FreeCAD_assembly3/releases/tag/0.11). To modify the model we recommend the same or even newer versions. For the assembly process we've been using the assembly workbench Assembly3. The workbench is bundled in the fork mentioned before, no addition installation are needed. In addition we use the Fasteners WB [V0.3.32 03 Sep 2020](https://github.com/shaise/FreeCAD_FastenersWB/tree/bbdcf82e55467523f5533179a896225213b0b5f1) for fasteners groups, this workbench needs to be installed separatly via the Addon-Manager in Freecad. 
 
-## AssemblyOverview
-In the following pichture all subassemblies of the windkit are same-coloured. The CAD structure can also be seen in the bill of materials of the windkit (windkit_bom.ods).
-![](./images/AssemblyOverview.png)
+## Assembly overview
+The master assembly file is called `MainAssembly.windkit.FCStd`. All sub-assemblies are saved in different folders. The sub-assemblies are shown in the following image below. 
+![](./Images/AssemblyOverview.png)
+
+The Bill Of Materials is also structured the way the Cad is organised.
+
+## Prototype
+
+Beginning of 2021 a prototype has been built in a workshop.
 
 The following picture shows all parts of the windkit prototype before assembly. 
-  <img  src="./images/Parts.jpg" width="48%">
+
+  <img  src="./Images/Parts.jpg" width="48%">
+  <img  src="./Images/Workshop.jpg" flouat="left" width="48%">
+
+The next step is to bring the turbine to the field for testing!
+
+
+
+## Get in touch with us
+
+You wanna know more about this project or drink a beer with us? Just write us a message info@deltaempower.org
+
+windkit is developed by deltaEmpower
