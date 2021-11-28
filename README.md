@@ -13,7 +13,9 @@ ___
   <img align="right" src="./Images/WindkitExploded.png" width="30%">
 
 ### Version: 
-V1.0
+* Version: V1.0 
+* Release date: 29.04.2021
+
 ### Introduction:
 The windkit is a small wind turbine to generate electricity from wind energy. It can be used either in offgrid or ongrid applications. Apart from the [aluminium and steel parts](https://gitlab.opensourceecology.de/verein/projekte/cab/windkit/-/tree/review/Export/LaserCutterFiles) that need to be laser cutted the windkit can be build and maintained using standard hand tools.
 
