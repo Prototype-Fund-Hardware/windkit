@@ -31,6 +31,7 @@ The windkit is a small wind turbine to generate electricity from wind energy. It
 - **rated power 400 Watt**
 - **an. power production 500 kWh/a @ 4 m/s**
 - **system voltage 12, 24, 48 Volt**
+- ** developed following small wind turbine standard [IEC61400-2:2013](https://webstore.iec.ch/publication/5433)**
 
 For more information check out the [Flyer](./Misc/FlyerWindkit.pdf)!
 
