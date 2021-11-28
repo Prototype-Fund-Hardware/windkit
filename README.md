@@ -12,6 +12,9 @@
 ___
   <img align="right" src="./Images/WindkitExploded.png" width="30%">
 
+### Introduction:
+The windkit is a small wind turbine to generate electricity from wind energy. It can be used either in offgrid or ongrid applications.
+
 ### Main features:
 
 - **secure**
