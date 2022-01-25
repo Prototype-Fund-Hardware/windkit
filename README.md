@@ -17,7 +17,7 @@ ___
 - Release date: 29.04.2021
 
 ### Introduction:
-The windkit is a small wind turbine to generate electricity from wind energy. It can be used either in offgrid or ongrid applications. Apart from the [aluminium and steel parts](https://gitlab.opensourceecology.de/verein/projekte/cab/windkit/-/tree/review/Export/LaserCutterFiles) that need to be laser cutted the windkit can be build and maintained using standard hand tools.
+The windkit is a small wind turbine to generate electricity from wind energy. It can be used either in offgrid or ongrid applications. Apart from the [aluminium and steel parts](/-/tree/review/Export/LaserCutterFiles) that need to be laser cutted the windkit can be build and maintained using standard hand tools.
 
 ### Main features:
 
@@ -58,6 +58,6 @@ The next step is to bring the turbine to the field for testing!
 
 ## Get in touch with us
 
-You wanna know more about this project or drink a beer with us? Just write us a message info@deltaempower.org
+You wanna know more about this project or drink a beer with us? Just write us a message info@erni-kollektiv.org
 
-windkit is developed by deltaEmpower
+windkit is developed by ERNI collective
