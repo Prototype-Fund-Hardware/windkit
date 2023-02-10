@@ -34,6 +34,24 @@ The windkit is a small wind turbine to generate electricity from wind energy. It
 
 For more information check out the [Flyer](./Misc/FlyerWindkit.pdf)!
 
+### What the windkit can and can´t do:
+
+#### What it can´t:
+
+* It will not power your entire house and heat your swimming pool.
+
+* It will not work on a balkony or a roof top.
+
+* It will hardly deliver energy on a site with low or no wind. It's performance would then be like a photo voltaic module placed in a cellar.
+
+#### What it can:
+
+* Supply offgrid places with people who are aware of theire energy consumption. Best in addition with photo voltaic.
+
+* Produce around 800 kWh of electrical energy in windy sights like costal areas or islands.
+
+* Be a fun project of self empowerment.
+
 ## Who we are and where we come from
 
 We are the [ERNI-Collective](https://www.erni-kollektiv.org/)  a group of around 10 people based in Germany with various professional backgrounds (renewable-, civil-, environmental-engineer, metalworker, woodworker). We are focusing on educational workshops in the field of renewable energies especially on small wind turbines (SWT). Since 2015, we are conducting educational workshops on how to build, install, operate and maintane SWT based on the plans of [Hugh Piggott](https://scoraigwind.co.uk/a-wind-turbine-recipe-book/). In 1978 Hugh Piggott started to develop a SWT to power his offgrid home in Scotland on Scoraig-Island. Since then he designed various SWT ranging from 1.8 m to 4.2 m rotor diameter and published various Recipe Books and Construction Manuals.
