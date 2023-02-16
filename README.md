@@ -64,7 +64,17 @@ The generator design of the windkit is still based on the [2F Construction Manua
 
 ## Software requirements
 
+#### FreeCAD - view and edit CAD files
+
 windkit is build with realthunder's FreeCAD fork : FreeCAD_assembly3 [2020.08.18](https://github.com/realthunder/FreeCAD_assembly3/releases/tag/0.11). To modify the model we recommend the same or even newer versions. For the assembly process we've been using the assembly workbench Assembly3. The workbench is bundled in the fork mentioned before, no addition installation are needed. In addition we use the Fasteners WB [V0.3.32 03 Sep 2020](https://github.com/shaise/FreeCAD_FastenersWB/tree/bbdcf82e55467523f5533179a896225213b0b5f1) for fasteners groups, this workbench needs to be installed separatly via the Addon-Manager in Freecad. 
+
+#### QCAD - view dxf files
+
+Export files of 2D shapes of the CAD modell for laser cutting have the format ".dxf". This is a common format. To view the .dxf-files download the the open source 2D CAD software [QCAD](https://qcad.org/en/).
+
+#### MarkText - view and edit mark down files
+
+All text files in the windkit repository as well as the windkit wiki are written in [Markdown](https://en.wikipedia.org/wiki/Markdown). To open and edit markdown files, like this README.md, download the mark down editor [MarkText](https://github.com/marktext/marktext).
 
 ## Assembly overview
 
