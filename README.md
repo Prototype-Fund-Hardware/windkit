@@ -91,6 +91,12 @@ The following picture shows all parts of the windkit prototype before assembly.
 
 The next step is to bring the turbine to the field for testing!
 
+
+
+## Contributing
+
+You want to contribute to our project? That´s great. Check out our [Contributing](https://git.erni-kollektiv.org/erni/windkit/-/wikis/Contributing)  page in our wiki.
+
 ## Get in touch with us
 
 You wanna know more about this project or drink a beer with us? Just write us a message info@erni-kollektiv.org
