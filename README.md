@@ -30,7 +30,7 @@ The windkit is a small wind turbine to generate electricity from wind energy. It
 - **rotor diameter: 2.0 Meter**
 - **rated power: 400 Watt @ 11 m/s wind speed**
 - **energy production: 200 kWh/a @ 3 m/s annual average wind speed**
-- **system voltage :12, 24, 48 Volt**
+- **system voltage: 12, 24, 48 Volt**
 
 For more information check out the [Flyer](./Misc/FlyerWindkit.pdf)!
 
